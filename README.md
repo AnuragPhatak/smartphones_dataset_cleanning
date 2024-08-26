@@ -12,3 +12,17 @@ Data Columns:
 9. camera: Original camera configuration details.
 10. card: Memory card support details.
 18. os: The operating system running on the phone.
+
+Data Cleaning Process: Handling Missing Values,Feature Extraction,Standardizing Formats,Reordering Columns
+
+Original Data:
+
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/369a8572-8f4b-44c2-a040-c2249df8bc51">
+
+Cleaned Data:
+
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/6833eb84-df0e-48dd-8689-ae42b0be9f8f">
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/c06fe586-ae7f-4d80-9c24-9779ee2f38db">
+
+
